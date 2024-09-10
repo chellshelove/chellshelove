@@ -18,53 +18,38 @@ ur welcome ;)
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
 Eyyyy!!! <br />
-I am <b>David Vargas</b> better known as 'DavidsDvm'🕵🏼‍♂️ <br />
-I am from <strong>Colombiaaaaa 🇨🇴🇨🇴</strong> with an "o" not an "u"☕☕ <br />
-I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
+I am <b>Chellshe Love</b> <br />
+I am from <strong>Indonesia 🇮🇩</strong> <br />
+I'm a girl who loves to develop new things 🖥️ <br />
+So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way 🚀<br />
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
 
 ### 🧐 More About Me:
-<table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I’m currently studying at Binus University
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to collaborate on Open Source Projects
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/chellshelove?tab=repositories)
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/chellshelove/)
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          🎷 When I am free, I like to play the watch Netflix
         </li>
-        <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-        </li>
-        <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
-        </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
     </td>
   </tr>
-</table>
 <br><br><br>
 
-<!-- languajes and skills section -->
+<!-- languages and skills section -->
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
@@ -124,14 +109,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <br>
 
-<!-- last refresh of readme section -->
-
-Last refresh: <b>Monday, September 9, 7:54 PM GMT-5</b>
-
-<!---
-DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ![Chellshe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellshelove&show_icons=true&theme=tokyonight)
 
