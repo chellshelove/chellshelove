@@ -102,12 +102,7 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Projects section -->
 
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
+ ![Snake animation](https://github.com/chellshelove/chellshelove/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Chellshe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellshelove&show_icons=true&theme=tokyonight)
