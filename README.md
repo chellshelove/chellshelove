@@ -17,7 +17,7 @@ ur welcome ;)
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-Eyyyy!!! <br />
+Heyyyy!!! <br />
 I am <b>Chellshe Love</b> <br />
 I am from <strong>Indonesia 🇮🇩</strong> <br />
 I'm a girl who loves to develop new things 🖥️ <br />
@@ -101,9 +101,11 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 </p>
 
 <!-- Projects section -->
-
- ![Snake animation](https://github.com/chellshelove/chellshelove/blob/output/github-contribution-grid-snake.svg)
-
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif" alt="github-contribution-grid-snake">
+</div>
+<br/>
 
 ![Chellshe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chellshelove&show_icons=true&theme=tokyonight)
 
