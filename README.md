@@ -8,11 +8,6 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;) 
 -->
-<div align="center">
-  <a href="https://github.com/DavidsDvm">
-    <img src="./assets/profile.gif" alt="DavidsDvm Profile GIF">
-  </a>
-</div>
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
